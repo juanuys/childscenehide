@@ -5,4 +5,3 @@
 
 [node name="Main" instance=ExtResource( 1 )]
 script = ExtResource( 2 )
-my_scene = null

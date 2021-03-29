@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="ChildSceneHide"
-run/main_scene="res://Main.tscn"
+run/main_scene="res://MyInheritedMain.tscn"
 config/icon="res://icon.png"
 
 [rendering]
